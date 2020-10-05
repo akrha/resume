@@ -11,12 +11,8 @@
 ## Code
 - [GitHub: akrha](https://github.com/akrha)
 
-## SNS
+## Contact Me
 - [Facebook](https://www.facebook.com/akira.shuang)
 - [Twitter](https://twitter.com/akira_shuang)
 - [Mail](mailto:hase.a1995@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/akrha/)
-
-## Photos
-- [Instagram](https://www.instagram.com/akira.shuang/)
-- [Unsplash](https://unsplash.com/@akrha)
