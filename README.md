@@ -2,7 +2,6 @@
 ## Blog
 - [akr-web.tk | WEBエンジニア日記](https://akr-web.tk/)
 - [Qiita](https://qiita.com/akrha)
-- [Note](https://note.com/akrha)
 
 ## Resume
 - [職務経歴書](resume.pdf)
